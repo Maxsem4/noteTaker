@@ -4,7 +4,7 @@
 
 ## Description
 
-noteTaker is an app that creates notes from user input and save then on a server.
+noteTaker is an app that creates notes from user input and save them on a server.
 
 ## 🚀 How to Use?
 
