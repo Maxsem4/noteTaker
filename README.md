@@ -8,7 +8,7 @@ noteTaker is an app that creates notes from user input and save them on a server
 
 ## 🚀 How to Use?
 
-Click on the link https://max-notetaker.herokuapp.com/
+Click on the link https://sleepy-everglades-08451.herokuapp.com/
 
 ## 🤝 Contributing
 
